@@ -16,6 +16,7 @@ Javascript Calculator
   
 ### Courses:
 - [FreeCodeCamp](https://www.freecodecamp.org/): Front End Certification
+- [Get Job Ready Guide (P1xt)](get-job-ready.md) - Get Job ready with 13 projects, 2 courses, and 10 books
 - [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) - Introduction to Computer Science
   
 ### Books:
