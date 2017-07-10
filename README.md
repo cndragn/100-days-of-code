@@ -14,9 +14,9 @@ The challenge is simple: Code for at least an hour a day for 100 days.
 
 Projects | Courses | Books
 ---------| ------- | ------
-Javascript Calculator | [FreeCodeCamp](https://www.freecodecamp.org/):<br /> Front End Certification | You Don't Know Javascript:<br /> Async & Performance
-<br /> | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> 13 projects, 2 courses, and 10 books | Books
-<br /> | [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) <br /> Introduction to Computer Science | Books
+Javascript Calculator | [FreeCodeCamp](https://www.freecodecamp.org/)<br /> Front End Certification<br /> `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap` | You Don't Know Javascript:<br /> Async & Performance
+<br /> | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> `C`, `Python`, `SQL`, `JavaScript`<br /> `MongoDB`, `Node.js`, `Express`, `Angular` | <br />
+<br /> | [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) <br /> Introduction to Computer Science<br /> `C`, `Python`, `SQL`, `JavaScript`| <br />
 
 ## Completed
 
