@@ -2,6 +2,8 @@
 
 The challenge is simple: Code for at least an hour a day for 100 days.
 
+This will also serve as a mico-journal of my path to sharpen my skill set for Back End Development.
+
 [Challenge Log - View my progress](log.md)
 
 ## Contents
