@@ -11,32 +11,20 @@ The challenge is simple: Code for at least an hour a day for 100 days.
 * [Resources](resources.md)
 
 ## Currently Working On
-### Projects:
-Javascript Calculator
-  
-### Courses:
-- [FreeCodeCamp](https://www.freecodecamp.org/): Front End Certification
-- [Get Job Ready Guide (P1xt)](get-job-ready.md) - Get Job ready with 13 projects, 2 courses, and 10 books
-- [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) - Introduction to Computer Science
-  
-### Books:
-You Don't Know Javascript: Async & Performance
+
+Projects | Courses | Books
+---------| ------- | ------
+Javascript Calculator | [FreeCodeCamp](https://www.freecodecamp.org/):<br /> Front End Certification | You Don't Know Javascript:<br /> Async & Performance
+<br /> | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> 13 projects, 2 courses, and 10 books | Books
+<br /> | [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) <br /> Introduction to Computer Science | Books
 
 ## Completed
-### Projects:
-- [Personal Portfolio](https://github.com/cndragn/portfolio)
-- [Random Quote Machine](https://github.com/cndragn/advice-generator)
-- [Local Weather App](https://github.com/cndragn/local-weather)
-- [Wikipedia Viewer](https://github.com/cndragn/wiki-viewer)
-- [Twitch.tv API](https://github.com/cndragn/twitch-tv)
+
+Projects | Courses | Books
+---------| ------- | ------
+[Personal Portfolio](https://github.com/cndragn/portfolio) | Code Acadamy: <br /> [Javascript Course](https://www.codecademy.com/learn/javascript) | You Don't Know Javascript:<br /> Up & Going
+[Random Quote Machine](https://github.com/cndragn/advice-generator) | Udacity: <br /> [How to Use Git & Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775/) | You Don't Know Javascript:<br /> Scopes & Closures
+[Local Weather App](https://github.com/cndragn/local-weather) | <br /> | You Don't Know Javascript:<br /> this & Object Prototypes
+[Wikipedia Viewer](https://github.com/cndragn/wiki-viewer) | <br /> | You Don't Know Javascript:<br /> Types & Grammar
+[Twitch.tv API](https://github.com/cndragn/twitch-tv) | <br /> | <br />
   
-### Courses:
-- Code Acadamy: [Javascript Course](https://www.codecademy.com/learn/javascript)
-- Udacity: [How to Use Git & Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775/)
-
-### Books:
-- You Don't Know Javascript: Up & Going
-- You Don't Know Javascript: Scopes & Closures
-- You Don't Know Javascript: this & Object Prototypes
-- You Don't Know Javascript: Types & Grammar
-
