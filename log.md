@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: 11 July 2017
+
+**Tasks**: Worked on FCC Intermedite Algorithms
+
+**Notes:** Trying to solve this, I split the number into ones, tens, etc. and put my roman numbers in a literal object array. It worked but my code was crazy huge so I looked up a hint and realized where I was doing more work than I had to.  I wasn't totally wrong at least...only mostly. Ahh! 
+
+**View Progress:** [FCC Algorithm: Roman Numeral Converter](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/3-roman-numeral-converter.js)
+
 ### Day 0: 10 July 2017
 
 **Tasks**: Worked on FCC Intermedite Algorithms
