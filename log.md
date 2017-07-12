@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: 12 July 2017
+
+**Tasks**: CS50 Pset 3
+
+**Notes:** CS50 - Realized I still had to "make file" for my changes to helper.c to work. Well duh!  No wonder... Got bubble sort and linear search working. Working on binary search...
+
+**View Progress:** [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)
+
 ### Day 1: 11 July 2017
 
 **Tasks**: <br>
