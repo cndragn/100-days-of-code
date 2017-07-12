@@ -6,11 +6,12 @@
 CS50 Pset 3<br>
 FCC Intermedite Algorithms 
 
-**Notes:** CS50 - Realized I still had to "make file" for my changes to helper.c to work. Well duh!  No wonder... Got bubble sort and linear search working. Working on binary search...
+**Notes:** CS50 - Realized I still had to "make file" for my changes to helper.c to work. Well duh!  No wonder... Got bubble sort and linear search working. Working on binary search... FCC - Romeo is giving me troubles...
 
 **View Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find) <br>
-[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js)
+[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) <br>
+[FCC Algorithm: Search and Replace](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/5-search-and-replace.js)
 
 ### Day 1: 11 July 2017
 
