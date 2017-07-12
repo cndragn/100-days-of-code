@@ -2,9 +2,11 @@
 
 ### Day 1: 11 July 2017
 
-**Tasks**: Worked on FCC Intermedite Algorithms
+**Tasks**: <br>
+FCC Intermedite Algorithms<br>
+CS50 Pset 3/Find
 
-**Notes:** Trying to solve this, I split the number into ones, tens, etc. and put my roman numbers in a literal object array. It worked but my code was crazy huge so I looked up a hint and realized where I was doing more work than I had to.  I wasn't totally wrong at least...only mostly. Ahh! 
+**Notes:** FCC - I split the number into ones, tens, etc. and put my roman numbers in a literal object array. It worked but my code was crazy huge so I looked up a hint and realized where I was doing more work than I had to.  I wasn't totally wrong at least...only mostly. Ahh! / CS50 - I am so lost...I ended up deleting everything to start over.
 
 **View Progress:** [FCC Algorithm: Roman Numeral Converter](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/3-roman-numeral-converter.js)
 
