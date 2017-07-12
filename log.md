@@ -11,7 +11,8 @@ FCC Intermedite Algorithms
 **View Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find) <br>
 [FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) <br>
-[FCC Algorithm: Search and Replace](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/5-search-and-replace.js)
+[FCC Algorithm: Search and Replace](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/5-search-and-replace.js) <br>
+[FCC Algorithm: Pig Latin](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/6-pig-latin.js)
 
 ### Day 1: 11 July 2017
 
