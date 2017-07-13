@@ -4,11 +4,15 @@
 
 **Tasks**:<br>
 CS50 Pset 3<br> 
+FCC Javascript Calculator<br>
+FCC Intermedite Algorithms
 
-**Notes:** CS50 - Finally finished Pset3/Find.. HackerRank - Ive given up on 7 Days of JS.  Im having the worst time (a month to get to day 3/7..Im not that daft!) and every comment to every question is about how horrible the requirements and codes are written. No wonder this was retired by HR. How did I find this torture device?!
+**Notes:** CS50 - Finally finished Pset3/Find.. HackerRank - Ive given up on 7 Days of JS.  Im having the worst time (a month to get to day 3/7..Im not that daft!) and every comment to every question is about how horrible the requirements and codes are written. No wonder this was retired by HR. How did I find this torture device?! FCC - Got my calculator project started and excited about it!
 
 **View Progress:** <br>
-[CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)
+[CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)<br>
+[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) <br>
+[FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js)
 
 ### Day 2: 12 July 2017
 
