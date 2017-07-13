@@ -5,7 +5,7 @@
 **Tasks**:<br>
 CS50 Pset 3<br> 
 
-**Notes:** CS50 - Finally finished Pset3/Find.. 
+**Notes:** CS50 - Finally finished Pset3/Find.. HackerRank - Ive given up on 7 Days of JS.  Im having the worst time (a month to get to day 3/7..Im not that daft!) and every comment to every question is about how horrible the requirements and codes are written. No wonder this was retired by HR. How did I find this torture device?!
 
 **View Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)
