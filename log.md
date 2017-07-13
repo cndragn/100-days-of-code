@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: 13 July 2017
+
+**Tasks**:<br>
+CS50 Pset 3<br> 
+
+**Notes:** CS50 - Finally finished Pset3/Find.. 
+
+**View Progress:** <br>
+[CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)
+
 ### Day 2: 12 July 2017
 
 **Tasks**:<br>
