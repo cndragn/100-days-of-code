@@ -5,7 +5,9 @@
 **Notes:** Decided to hunker down and get serious about making progress...  focusing on dedicating more time to study and coding.
 
 **Progress:** <br>
-[CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)
+[CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)<br>
+[FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)<br>
+[FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)
 
 ### Day 3: 13 July 2017
 
