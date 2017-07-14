@@ -14,7 +14,8 @@ HackerRank 30 Days of Code
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)<br>
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) <br>
 [FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js)<br>
-[FCC Algorithm: MIssing Letters](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/8-missing-letters.js)
+[FCC Algorithm: MIssing Letters](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/8-missing-letters.js)<br>
+[CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)
 
 ### Day 2: 12 July 2017
 
