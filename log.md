@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: 14 July 2017
+
+**Notes:** Decided to hunker down and get serious about making progress...  focusing on dedicating more time to study and coding.
+
+**Progress:** <br>
+[CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)
+
 ### Day 3: 13 July 2017
 
 **Tasks**:<br>
@@ -15,6 +22,7 @@ HackerRank 30 Days of Code
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) <br>
 [FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js)<br>
 [FCC Algorithm: MIssing Letters](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/8-missing-letters.js)<br>
+[FCC Algorithm: Boo Who](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/09-boo-who.js)<br>
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)
 
 ### Day 2: 12 July 2017
