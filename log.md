@@ -5,14 +5,16 @@
 **Tasks**:<br>
 CS50 Pset 3<br> 
 FCC Javascript Calculator<br>
-FCC Intermedite Algorithms
+FCC Intermedite Algorithms<br>
+HackerRank 30 Days of Code
 
-**Notes:** CS50 - Finally finished Pset3/Find.. HackerRank - Ive given up on 7 Days of JS.  Im having the worst time (a month to get to day 3/7..Im not that daft!) and every comment to every question is about how horrible the requirements and codes are written. No wonder this was retired by HR. How did I find this torture device?! FCC - Got my calculator project started and excited about it!
+**Notes:** CS50 - Finally finished Pset3/Find.. HackerRank - I found there were too many issues and errors in the 7 Days of JS challenges and it was getting beyond painful to solve them..no wonder it has been archived by HR! So now Im doing the 30 Days of Code! FCC - Got my calculator project started and excited about it!
 
 **View Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)<br>
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) <br>
-[FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js)
+[FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js)<br>
+[FCC Algorithm: MIssing Letters](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/8-missing-letters.js)
 
 ### Day 2: 12 July 2017
 
