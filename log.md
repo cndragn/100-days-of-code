@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 5: 15 July 2017
+
+**Notes:** I worked on my calculator all day today.. over 7 hours.  I made a ton of leeway and its almost done, but Ive spent the past 2 or hours saying "Just this one last thing then it's working perfectly!" But so far each one last thing leads to another one last thing... 
+
+**Progress:** <br>
+[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) 
+
 ### Day 4: 14 July 2017
 
 **Notes:** Decided to hunker down and get serious about making progress...  focusing on dedicating more time to study and coding.
