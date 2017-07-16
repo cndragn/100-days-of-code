@@ -6,7 +6,7 @@
 
 **Progress:** <br>
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen) :100: <br>
-[CS50 Pset3 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) :warning:
+[CS50 Pset3 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) :100:
 
 ### Day 5: 15 July 2017
 
