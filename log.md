@@ -7,7 +7,8 @@
 **Progress:** <br>
 [FCC Algorithm: Sorted Union](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/10-sorted-union.js)<br>
 [FCC Algorithm: Convert HTML Entities](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/11-convert-html-entities.js)<br>
-[FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)
+[FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)<br>
+[FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)
 
 ### Day 6: 16 July 2017
 
@@ -32,7 +33,7 @@
 **Progress:** <br>
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)<br>
 [FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js) <br>
-[FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js) :warning:
+[FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)
 
 ### Day 3: 13 July 2017
 
