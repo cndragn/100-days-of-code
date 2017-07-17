@@ -7,7 +7,8 @@
 **Progress:** <br>
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen) :100: <br>
 [CS50 Pset4 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) :100:<br>
-[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:
+[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:<br>
+[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) :warning: <br>
 
 ### Day 5: 15 July 2017
 
@@ -43,7 +44,7 @@ HackerRank: 30 Days of Code (01/30)
 
 **Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find) <br>
-[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) :warning: <br>
+[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js)<br>
 [FCC Algorithm: Search and Replace](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/5-search-and-replace.js) :100: <br>
 [FCC Algorithm: Pig Latin](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/6-pig-latin.js) :100:
 
