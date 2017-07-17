@@ -1,12 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 7: 17 July 2017
+
+**Notes:** 
+
+**Progress:** <br>
+[FCC Algorithm: Sorted Union](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/10-sorted-union.js)
+
 ### Day 6: 16 July 2017
 
 **Notes:** 
 
 **Progress:** <br>
-[CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen) :100: <br>
-[CS50 Pset4 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) :100:<br>
+[CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)<br>
+[CS50 Pset4 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) <br>
 [CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:<br>
 [FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) :warning: <br>
 
@@ -30,11 +37,11 @@
 **Notes:** CS50 - Finally finished Pset3/Find.. HackerRank - I found there were too many issues and errors in the 7 Days of JS challenges and it was getting beyond painful to solve them..no wonder it has been archived by HR! So now Im doing the 30 Days of Code! FCC - Got my calculator project started and excited about it!
 
 **Progress:** <br>
-[CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find) :100: <br>
+[CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find)<br>
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) <br>
-[FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js) :100:<br>
-[FCC Algorithm: MIssing Letters](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/8-missing-letters.js) :100: <br>
-[FCC Algorithm: Boo Who](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/09-boo-who.js) :100: <br>
+[FCC Algorithm: DNA Pairing](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/7-dna-pariing.js) <br>
+[FCC Algorithm: MIssing Letters](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/8-missing-letters.js) <br>
+[FCC Algorithm: Boo Who](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/09-boo-who.js)  <br>
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)<br>
 HackerRank: 30 Days of Code (01/30)
 
@@ -45,8 +52,8 @@ HackerRank: 30 Days of Code (01/30)
 **Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find) <br>
 [FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js)<br>
-[FCC Algorithm: Search and Replace](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/5-search-and-replace.js) :100: <br>
-[FCC Algorithm: Pig Latin](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/6-pig-latin.js) :100:
+[FCC Algorithm: Search and Replace](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/5-search-and-replace.js) <br>
+[FCC Algorithm: Pig Latin](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/6-pig-latin.js)
 
 ### Day 1: 11 July 2017
 
@@ -54,10 +61,10 @@ HackerRank: 30 Days of Code (01/30)
 
 **Progress:** <br>
 [CS50 Pset3 / Find](https://github.com/cndragn/CS50x/tree/master/pset3/find) <br>
-[FCC Algorithm: Roman Numeral Converter](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/3-roman-numeral-converter.js) :100:
+[FCC Algorithm: Roman Numeral Converter](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/3-roman-numeral-converter.js)
 
 ### Day 0: 10 July 2017
 
 **Notes:** I recently cleared the cache on my browser, which reset all my code on FCC.  I only just started Adv. Algorithms and the second had been saved, so I just went ahead and redid the first one.  Took me almost an hour, but thats still way less than the first time I solved it.
 
-**Progress:** [FCC Algorithm: Solve All Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/1-sum-all-numbers.js) :100:
+**Progress:** [FCC Algorithm: Solve All Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/1-sum-all-numbers.js) 
