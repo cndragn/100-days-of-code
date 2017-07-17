@@ -5,7 +5,8 @@
 **Notes:** 
 
 **Progress:** <br>
-[FCC Algorithm: Sorted Union](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/10-sorted-union.js)
+[FCC Algorithm: Sorted Union](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/10-sorted-union.js)<br>
+[FCC Algorithm: Convert HTML Entities](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/11-convert-html-entities.js)
 
 ### Day 6: 16 July 2017
 
