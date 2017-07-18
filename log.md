@@ -9,7 +9,7 @@
 [FCC Algorithm: Convert HTML Entities](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/11-convert-html-entities.js)<br>
 [FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)<br>
 [FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)<br>
-[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:
+[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:<br>
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
 
 ### Day 6: 16 July 2017
