@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 8: 18 July 2017
+
+**Notes:** 
+
+**Progress:** <br>
+[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:
+
 ### Day 7: 17 July 2017
 
 **Notes:** 
