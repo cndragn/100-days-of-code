@@ -10,6 +10,7 @@
 [FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)<br>
 [FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)<br>
 [FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:
+[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
 
 ### Day 6: 16 July 2017
 
@@ -25,7 +26,7 @@
 
 **Notes:** I worked on my calculator all day today.. over 7 hours.  I made a ton of leeway and its almost done, but Ive spent the past 2 or hours saying "Just this one last thing then it's working perfectly!" But so far each one last thing leads to another one last thing... 
 
-**Progress:** [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
+**Progress:** [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator)
 
 ### Day 4: 14 July 2017
 
