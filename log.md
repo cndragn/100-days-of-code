@@ -7,7 +7,9 @@
 **Progress:** <br>
 [CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
 [CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:<br>
-[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:
+[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:<br>
+[FCC Algorithm: Sum All Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
+[FCC Algorithm: Finders Keepers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/16-finders-keepers.js)
 
 ### Day 7: 17 July 2017
 
