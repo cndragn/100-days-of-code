@@ -6,7 +6,8 @@
 
 **Progress:** <br>
 [CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
-[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:
+[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:<br>
+[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:
 
 ### Day 7: 17 July 2017
 
@@ -17,7 +18,7 @@
 [FCC Algorithm: Convert HTML Entities](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/11-convert-html-entities.js)<br>
 [FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)<br>
 [FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)<br>
-[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:<br>
+[FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js)<br>
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
 
 ### Day 6: 16 July 2017
