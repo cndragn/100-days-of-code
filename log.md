@@ -9,7 +9,8 @@
 [CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:<br>
 [FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js) :warning:<br>
 [FCC Algorithm: Sum All Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
-[FCC Algorithm: Finders Keepers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/16-finders-keepers.js)
+[FCC Algorithm: Finders Keepers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/16-finders-keepers.js)<br>
+[FCC Algorithm: Drop It](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/17-drop-it.js)
 
 ### Day 7: 17 July 2017
 
