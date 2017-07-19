@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 9: 19 July 2017
+
+**Notes:** 
+
+**Progress:** <br>
+[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
+
 ### Day 8: 18 July 2017
 
 **Notes:** 
@@ -22,7 +29,7 @@
 [FCC Algorithm: Spinal Tap Case](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/12-spinal-tap-case.js)<br>
 [FCC Algorithm: Sum All Odd Fibonacci Numbers](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/13-sum-all-odd-fibonacci-numbers.js)<br>
 [FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js)<br>
-[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
+[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator)
 
 ### Day 6: 16 July 2017
 
