@@ -5,7 +5,8 @@
 **Notes:** 
 
 **Progress:** <br>
-[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator) :warning:
+[FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator)<br>
+[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js)
 
 ### Day 8: 18 July 2017
 
@@ -39,8 +40,7 @@
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)<br>
 [CS50 Pset4 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) <br>
 [CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize)<br>
-[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) :warning: <br>
-
+[FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js)
 ### Day 5: 15 July 2017
 
 **Notes:** I worked on my calculator all day today.. over 7 hours.  I made a ton of leeway and its almost done, but Ive spent the past 2 or hours saying "Just this one last thing then it's working perfectly!" But so far each one last thing leads to another one last thing... 
