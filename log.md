@@ -5,7 +5,8 @@
 **Notes:** 
 
 **Progress:** <br>
-[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:
+[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
+[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:
 
 ### Day 7: 17 July 2017
 
@@ -26,7 +27,7 @@
 **Progress:** <br>
 [CS50 Pset3 / Game of Fifteen](https://github.com/cndragn/CS50x/tree/master/pset3/fifteen)<br>
 [CS50 Pset4 / Whodunit](https://github.com/cndragn/CS50x/tree/master/pset4/whodunit) <br>
-[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:<br>
+[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize)<br>
 [FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js) :warning: <br>
 
 ### Day 5: 15 July 2017
