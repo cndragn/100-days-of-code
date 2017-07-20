@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 10: 20 July 2017
+
+**Notes:** 
+
+**Progress:** <br>
+[FCC Pomodoro Clock](https://github.com/cndragn/pomodoro) :warning:
+
 ### Day 9: 19 July 2017
 
 **Notes:** 
@@ -7,7 +14,8 @@
 **Progress:** <br>
 [FCC Javascript Calculator](https://github.com/cndragn/javascript-calculator)<br>
 [FCC Algorithm: Wherefore Art Thou](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/4-wherefore-art-thou.js)<br>
-[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize) :warning:
+[CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize)<br>
+[FCC Pomodoro Clock](https://github.com/cndragn/pomodoro)
 
 ### Day 8: 18 July 2017
 
