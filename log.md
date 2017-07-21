@@ -3,6 +3,7 @@
 ### Day 10: 20 July 2017
 
 **Notes:** 
+Today I had a really interesting convo with somoene on FCC about the importance of shoving away those pesky little voices that feed on imposters syndrome...  I really wish I had been able to recognize it and had more faith in my abilities to start expanding my knowledge years ago.  Now that I am doing it, I am feeling pretty on top of the world...  As frustrating as the process is, it feels awsome. This has been a rough year so far, but nevermind the bad stuff, I'll always remember this as the year I finally took that step towards the career I have always wanted, and that makes this a good year indeed.
 
 **Progress:** <br>
 [FCC Pomodoro Clock](https://github.com/cndragn/pomodoro) :warning:<br>
