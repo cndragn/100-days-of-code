@@ -5,7 +5,8 @@
 **Notes:** 
 
 **Progress:** <br>
-HackerRank: Algorithms - Warmup
+HackerRank: Algorithms - Warmup <br>
+HackerRank: 30 Days - Day 1 :warning:
 
 ### Day 10: 20 July 2017
 
