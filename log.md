@@ -6,7 +6,8 @@
 
 **Progress:** <br>
 HackerRank: Algorithms - Warmup <br>
-HackerRank: 30 Days - Day 1 :warning:
+HackerRank: 30 Days - Day 1 :warning:<br>
+[FCC Algorithm: Binary Agents](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/19-binary-agents.js)
 
 ### Day 10: 20 July 2017
 
