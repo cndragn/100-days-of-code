@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: 22 July 2017
+
+**Notes:** 
+So, I was feeling confident and decided to sumbit my application to LaunchCode and take the coding test.  I spent about 10m on the first question then decided to come back to it later. I got the next one correct pretty quickly, but then the last one got me good.  I knew straightaway how I was going to solve it except that if finally dawned on me how wrong I was and had to start over.  I think I got on the right track, but ran out of time. So annoyed with myself for waasting time with the wrong approach and so embarrassed someone will see that code that I wanna dig a hole and crawl into it...except I live on the third floor and my downstairs neighbors wouldnt appreciate me dropping in like that.
+
+**Progress:** <br>
+HAckerRank: Algoriths - Warmup
+LaunchCode Application Test
+
 ### Day 11: 21 July 2017
 
 **Notes:** 
