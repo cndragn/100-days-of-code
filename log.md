@@ -3,10 +3,10 @@
 ### Day 12: 22 July 2017
 
 **Notes:** 
-So, I was feeling confident and decided to sumbit my application to LaunchCode and take the coding test.  I spent about 10m on the first question then decided to come back to it later. I got the next one correct pretty quickly, but then the last one got me good.  I knew straightaway how I was going to solve it except that if finally dawned on me how wrong I was and had to start over.  I think I got on the right track, but ran out of time. So annoyed with myself for waasting time with the wrong approach and so embarrassed someone will see that code that I wanna dig a hole and crawl into it...except I live on the third floor and my downstairs neighbors wouldnt appreciate me dropping in like that.
+So, I was feeling confident and decided to sumbit my application to LaunchCode and take the coding test.  I spent about 10m on the first question then decided to come back to it later. I got the next one correct pretty quickly, but then the last one got me good.  I knew straightaway how I was going to solve it except that if finally dawned on me how wrong I was and had to start over.  I think I got on the right track, but ran out of time. So annoyed with myself for wasting time with the wrong approach and so embarrassed someone will see that code that I wanna dig a hole and crawl into it...except I live on the third floor and my downstairs neighbors wouldnt appreciate me dropping in like that.
 
 **Progress:** <br>
-HAckerRank: Algoriths - Warmup
+HAckerRank: Algoriths - Warmup<br>
 LaunchCode Application Test
 
 ### Day 11: 21 July 2017
@@ -23,7 +23,7 @@ HackerRank: 30 Days - Day 1 :warning:<br>
 ### Day 10: 20 July 2017
 
 **Notes:** 
-Today I had a really interesting convo with somoene on FCC about the importance of shoving away those pesky little voices that feed on imposters syndrome...  I really wish I had been able to recognize it and had more faith in my abilities to start expanding my knowledge years ago.  Now that I am doing it, I am feeling pretty on top of the world...  As frustrating as the process is, it feels awsome. This has been a rough year so far, but nevermind the bad stuff, I'll always remember this as the year I finally took that step towards the career I have always wanted, and that makes this a good year indeed.
+Today I had a really interesting convo with someone on FCC about the importance of shoving away those pesky little voices that feed on imposters syndrome...  I really wish I had been able to recognize it and had more faith in my abilities to start expanding my knowledge years ago.  Now that I am doing it, I am feeling pretty on top of the world...  As frustrating as the process is, it feels awsome. This has been a rough year so far, but nevermind the bad stuff, I'll always remember this as the year I finally took that step towards the career I have always wanted, and that makes this a good year indeed.
 
 **Progress:** <br>
 [FCC Pomodoro Clock](https://github.com/cndragn/pomodoro) :warning:<br>
