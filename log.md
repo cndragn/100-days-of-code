@@ -7,7 +7,8 @@
 **Progress:** <br>
 [FCC Algorithm: Everything Be True](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/20-everything-be-true.js)<br>
 [FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
-[FCC Algorithm: Arguments Optional](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/21-arguments-optional.js) :warning:
+[FCC Algorithm: Arguments Optional](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/21-arguments-optional.js) :warning:<br>
+[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover)<br>
 
 
 ### Day 12: 22 July 2017
@@ -18,7 +19,7 @@ So, I was feeling confident and decided to sumbit my application to LaunchCode a
 **Progress:** <br>
 HAckerRank: Algoriths - Warmup<br>
 LaunchCode Application Test<br>
-[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
+[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover)<br>
 [FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js)<br>
 [FCC Algorithm: Steamroller](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/18-steamroller.js)
 
