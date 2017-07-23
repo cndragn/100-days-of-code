@@ -7,7 +7,8 @@ So, I was feeling confident and decided to sumbit my application to LaunchCode a
 
 **Progress:** <br>
 HAckerRank: Algoriths - Warmup<br>
-LaunchCode Application Test
+LaunchCode Application Test<br>
+[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
 
 ### Day 11: 21 July 2017
 
@@ -48,7 +49,7 @@ HackerRank: Algorithms - Warmup <br>
 **Notes:** 
 
 **Progress:** <br>
-[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
+[CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover)<br>
 [CS50 Pset4 / Resize](https://github.com/cndragn/CS50x/tree/master/pset4/resize)<br>
 [FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js)<br>
 [FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js)<br>
