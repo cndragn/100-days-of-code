@@ -9,6 +9,8 @@ So, I was feeling confident and decided to sumbit my application to LaunchCode a
 HAckerRank: Algoriths - Warmup<br>
 LaunchCode Application Test<br>
 [CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
+[FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
+[FCC Algorithm: Steamroller](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/18-steamroller.js)
 
 ### Day 11: 21 July 2017
 
@@ -30,8 +32,8 @@ Today I had a really interesting convo with someone on FCC about the importance 
 [FCC Pomodoro Clock](https://github.com/cndragn/pomodoro) :warning:<br>
 HackerRank: Algorithms - Warmup <br>
 [FCC Algorithm: Sum All Primes](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/14-sum-all-primes.js)<br>
-[FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
-[FCC Algorithm: Steamroller](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/18-steamroller.js) :warning:
+[FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js)<br>
+[FCC Algorithm: Steamroller](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/18-steamroller.js)
 
 
 ### Day 9: 19 July 2017
