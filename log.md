@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: 23 July 2017
+
+**Notes:** 
+
+**Progress:** <br>
+[FCC Algorithm: Everything Be True](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/20-everything-be-true.js)<br>
+
+
 ### Day 12: 22 July 2017
 
 **Notes:** 
@@ -20,7 +28,7 @@ LaunchCode Application Test<br>
 HackerRank: Algorithms - Warmup <br>
 HackerRank: 30 Days - Day 1 :warning:<br>
 [FCC Algorithm: Binary Agents](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/19-binary-agents.js) <br>
-[FCC Algorithm: Everything Be True](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/20-everything-be-true.js) :warning:<br>
+[FCC Algorithm: Everything Be True](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/20-everything-be-true.js)<br>
 [FCC Algorithm: Arguments Optional](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/21-arguments-optional.js) :warning:
 
 ### Day 10: 20 July 2017
