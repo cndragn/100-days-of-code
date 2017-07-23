@@ -6,6 +6,8 @@
 
 **Progress:** <br>
 [FCC Algorithm: Everything Be True](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/20-everything-be-true.js)<br>
+[FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
+[FCC Algorithm: Arguments Optional](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/21-arguments-optional.js) :warning:
 
 
 ### Day 12: 22 July 2017
@@ -17,7 +19,7 @@ So, I was feeling confident and decided to sumbit my application to LaunchCode a
 HAckerRank: Algoriths - Warmup<br>
 LaunchCode Application Test<br>
 [CS50 Pset4 / Recover](https://github.com/cndragn/CS50x/tree/master/pset4/recover) :warning:<br>
-[FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js) :warning:<br>
+[FCC Algorithm: Smallest Common Multiples](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/15-sum-all-multiples.js)<br>
 [FCC Algorithm: Steamroller](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/18-steamroller.js)
 
 ### Day 11: 21 July 2017
@@ -29,7 +31,7 @@ HackerRank: Algorithms - Warmup <br>
 HackerRank: 30 Days - Day 1 :warning:<br>
 [FCC Algorithm: Binary Agents](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/19-binary-agents.js) <br>
 [FCC Algorithm: Everything Be True](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/20-everything-be-true.js)<br>
-[FCC Algorithm: Arguments Optional](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/21-arguments-optional.js) :warning:
+[FCC Algorithm: Arguments Optional](https://github.com/cndragn/FreeCodeCamp/blob/master/intermediate-algorithm-scripting/21-arguments-optional.js)
 
 ### Day 10: 20 July 2017
 
