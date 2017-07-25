@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 15: 25 July 2017
+
+**Notes:** 
+I'm still very much on track towards my 100 Days of Code challenge! It's just that I realized posting what i worked on daily is reducndant and creating unecessary work for myelf since all my progress can anywa be seen from the github activity chart. I finished my Pomodoro clock project at 4am, so only 2 more projects and one set of algorithm challenges to go...
+
 ### Day 13: 23 July 2017
 
 **Notes:** 
