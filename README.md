@@ -16,7 +16,7 @@ This will also serve as a mico-journal of my path to sharpen my skill set for Ba
 
 Projects | Courses 
 ---------| ------- 
-Tic Tac Toe Game | [FreeCodeCamp](https://www.freecodecamp.org/) Front End Certification<br /> `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap` 
+Simon Game | [FreeCodeCamp](https://www.freecodecamp.org/) Front End Certification<br /> `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap` 
 <br /> | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> `C`, `Python`, `SQL`, `JavaScript`<br /> `MongoDB`, `Node.js`, `Express`, `Angular` 
 <br /> | [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) <br /> Introduction to Computer Science<br /> `C`, `Python`, `SQL`, `JavaScript`
 
@@ -31,4 +31,5 @@ Projects | Courses
 [Twitch.tv API](https://github.com/cndragn/twitch-tv) | <br /> 
 [Javascript Calculator](https://github.com/cndragn/javascript-calculator) | <br />
 [Pomodoro Clock](https://github.com/cndragn/pomodoro) | <br>
+[Tic Tac Toe Game](http://candicedavidson.com/portfolio/tictactoe/) | <br />
   
