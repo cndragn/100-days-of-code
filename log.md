@@ -1,14 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 26: 05 Aug 2017
+
+**Notes:** 
+Today is an awesome day indeed!  I finished my Simon Game, and it was so much easier than the Tic Tac Toe game was. I learned something new.. tried to make it pause the game play loop to wait for the users input and found out that once a loop starts, theres no stopping it.  So I found another approach. It feels really good to have completed this one because I did so much on my own without having to look up every little thing.  
+
+Know what feels even better though?  I finished the Front End course on FreeCodeCamp and got my certificate! Holy cow that feels so good...! Oh and more good news! Yesterday I heard back from LaunchCode that they would like to schedule an interview.  YaY! You know those lil victory dances football players do? I've decided I need to work on mine, cause Im on a roll ^_^
+
+[FCC Simon Game](https://github.com/cndragn/simon-game)<br>
+[FreeCodeCamp Front End Certification](https://www.freecodecamp.org/cndragn/front-end-certification)
+
 ### Day 22: 01 Aug 2017
 
 **Notes:** 
 I just finished my Tic Tac Toe game and it really was the most challenging of FFC projects so far.  Even with as frustrated as I got with it at times, it was still fun.  I have only one last project to finish the FCC Front End cert, the Simon Game. I took a look and already I have ideas how to start and build this... What an incredibly long way Ive come though from my first day on FCC. I remember looking ahead and felt overwhlemed seeing what Id have to do.  And now Im like, oh okay yeah I got this, lemme make some coffee and knock it out. lol
 
+[FCC Tic Tac Toe Game](https://github.com/cndragn/tic-tac-toe)
+
 ### Day 15: 25 July 2017
 
 **Notes:** 
 I'm still very much on track towards my 100 Days of Code challenge! It's just that I realized posting what I worked on daily is redundant and creating unnecessary work for myself since all my progress can anyways be seen from the github activity chart. I finished my Pomodoro clock project at 4am, so only 2 more projects and one set of algorithm challenges to go...
+
+[FCC Pomodoro Clock](https://github.com/cndragn/pomodoro)
 
 ### Day 12: 22 July 2017
 
