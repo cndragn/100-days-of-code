@@ -18,6 +18,7 @@ Projects | Courses
 ---------| ------- 
 <br /> | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> `C`, `Python`, `SQL`, `JavaScript`<br /> `MongoDB`, `Node.js`, `Express`, `Angular` 
 <br /> | [Harvard CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) <br /> Introduction to Computer Science<br /> `C`, `Python`, `SQL`, `JavaScript`
+<br /> | Udacity <br /> [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
 ## Completed
 
