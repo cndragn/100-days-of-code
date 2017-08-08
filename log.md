@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 29: 08 Aug 2017
+
+**Notes:** 
+A couple days ago I completed the Programming Foundations with Python course and it was pretty good I have to say.  The final project was a movie database website, which I decided to flesh out to add to my portfolio.  Yesterday I started Introduction to MongoDB using the MEAN Stack on edX and the only difficulty so far is that he skips over steps that would be really useful. Along the lines of "Okay, so first lets install and set up MongoDB...and once you have that done lets move on!" Im like wait no, what comes between "Lets set it up" and "move on!" lol I figured it out, but yeah, can tell this is going to be more a course in research than anything else.
+
+[Movie Trailer DB](https://github.com/cndragn/udacity/tree/master/python/movie)
+
 ### Day 26: 05 Aug 2017
 
 **Notes:** 
