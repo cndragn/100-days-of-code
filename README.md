@@ -16,7 +16,7 @@ This will also serve as a mico-journal of my path to sharpen my skill set for Ba
 
 Projects | Courses 
 ---------| ------- 
-<br /> | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> `C`, `Python`, `SQL`, `JavaScript`<br /> `MongoDB`, `Node.js`, `Express`, `Angular` 
+Sentiments Analysis | [Get Job Ready Guide (P1xt)](get-job-ready.md) <br /> `C`, `Python`, `SQL`, `JavaScript`<br /> `MongoDB`, `Node.js`, `Express`, `Angular` 
 <br /> | [Harvard CS50x on Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/) <br /> Introduction to Computer Science<br /> `C`, `Python`, `SQL`, `JavaScript`
 <br /> | [Introduction to MongoDB using the MEAN Stack on Edx](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) <br> `MongoDB`, `ExpressJS`, `AngularJS`, `Node.js`
 
@@ -31,6 +31,7 @@ Projects | Courses
 [Twitch.tv API](https://github.com/cndragn/twitch-tv) | <br /> 
 [Javascript Calculator](https://github.com/cndragn/javascript-calculator) | <br />
 [Pomodoro Clock](https://github.com/cndragn/pomodoro) | <br>
-[Tic Tac Toe Game](http://candicedavidson.com/portfolio/tictactoe/) | <br />
+[Tic Tac Toe Game](https://github.com/cndragn/tic-tac-toe) | <br />
 [Simon Game](https://github.com/cndragn/simon-game) | <br />
+[Movie Trailer DB](https://github.com/cndragn/udacity/tree/master/python/movie) | <br>
   
